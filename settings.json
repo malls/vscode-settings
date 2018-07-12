@@ -1,0 +1,20 @@
+{
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "files.autoSave": "onFocusChange",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "files.insertFinalNewline": true,
+    "editor.fontFamily": "FiraCode-Regular",
+    "editor.fontSize": 16,
+    "files.hotExit": "off",
+    "editor.wordSeparators": "./\\()\"':,.;<>~!@#%^&|+=[]{}`~?",
+    "workbench.colorTheme": "Monokai",
+    "editor.cursorStyle": "underline"
+}
+
